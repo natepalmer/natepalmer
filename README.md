@@ -3,10 +3,11 @@
 I'm a computational biologist focused on genome engineering, sequencing analysis, and high-throughput screening.
 
 Selected projects:
-CRISPR-ampseq — CRISPR amplicon-sequencing analysis.
-deepak — deep mutational scanning of ADAR2. *eLife* 75555 (2022).
-lorax — long-read variant calling and analysis for protein-engineering screens. *Nat Biomed Eng* 9, 109–126 (2025).
-immune-orthogonal — protein immunogenicity and graph-based orthogonality analysis. *Nat Biomed Eng* 3, 806–816 (2019).
+
+- CRISPR-ampseq — CRISPR amplicon-sequencing analysis.
+- deepak — deep mutational scanning of ADAR2. *eLife* 75555 (2022).
+- lorax — long-read variant calling and analysis for protein-engineering screens. *Nat Biomed Eng* 9, 109–126 (2025).
+- immune-orthogonal — protein immunogenicity and graph-based orthogonality analysis. *Nat Biomed Eng* 3, 806–816 (2019).
 
 My recent industry work has also included cloud-deployed sequencing pipelines, genome-wide safety analyses, and computational support for therapeutic programs.
 
